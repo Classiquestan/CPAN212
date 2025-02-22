@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d7d3e0;
+  text-align: center;
+  padding: 50px;
+}
+
+.app {
+  
+    background: #eee;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    width: 60%;
+    margin: auto;
+
+}
+
+.fileup {
+  margin-top: 35px;
+}
+
+
+.button {
+  background-color: #6a1b9a;
+  color: white;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+.button:hover {
+  background-color: #4a148c;
+}
+h2 {
+  color: #4c2a63;
+}
+input[type="text"], input[type="password"] {
+  padding: 10px;
+  width: 40%;
+  margin: 10px 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+
